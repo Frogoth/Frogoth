@@ -18,3 +18,6 @@ x86_64 assembly
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,blender,unity&perline=4)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,laravel,nodejs,pnpm&perline=4)](https://skillicons.dev)
+
+## 📠 How to reach me
+- Email tom.rudolf2003@gmail.com
